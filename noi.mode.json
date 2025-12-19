@@ -34,6 +34,24 @@
       "text": "Email"
     },
     {
+      "id": "noi@google",
+      "parent": 0,
+      "dir": true,
+      "text": "Google"
+    },
+    {
+      "id": "noi@misc",
+      "parent": 0,
+      "dir": true,
+      "text": "Misc"
+    },
+    {
+      "id": "noi@generalweb",
+      "parent": 0,
+      "dir": true,
+      "text": "General Web"
+    },
+    {
       "id": "noi@video",
       "parent": 0,
       "dir": true,
@@ -160,6 +178,66 @@
       "url": "https://suno.com"
     },
     {
+      "id": "noi:abacusai",
+      "parent": "noi@ai",
+      "text": "Abacus.AI",
+      "url": "https://apps.abacus.ai/chatllm/"
+    },
+    {
+      "id": "noi:kimi",
+      "parent": "noi@ai",
+      "text": "Kimi",
+      "url": "https://www.kimi.com/en"
+    },
+    {
+      "id": "noi:yuppai",
+      "parent": "noi@ai",
+      "text": "YuppAI",
+      "url": "https://yupp.ai"
+    },
+    {
+      "id": "noi:veniceai",
+      "parent": "noi@ai",
+      "text": "Venice AI",
+      "url": "https://venice.ai"
+    },
+    {
+      "id": "noi:firebasestudio",
+      "parent": "noi@ai",
+      "text": "Firebase Studio",
+      "url": "https://firebase.studio/"
+    },
+    {
+      "id": "noi:bolt",
+      "parent": "noi@ai",
+      "text": "Bolt.new",
+      "url": "https://bolt.new/"
+    },
+    {
+      "id": "noi:emergentai",
+      "parent": "noi@ai",
+      "text": "Emergent AI",
+      "url": "https://emergent.sh/"
+    },
+    {
+      "id": "noi:movementlabs",
+      "parent": "noi@ai",
+      "text": "MovementLabs AI",
+      "url": "https://movementlabs.ai/"
+    },
+    {
+      "id": "noi:zai",
+      "parent": "noi@ai",
+      "text": "zAI",
+      "url": "https://zai.is"
+    },
+    {
+      "id": "noi:infiniax",
+      "parent": "noi@ai",
+      "text": "Infiniax",
+      "url": "https://infiniax.ai"
+    },
+    {
       "id": "noi:github",
       "parent": "noi@dev",
       "text": "GitHub",
@@ -192,8 +270,8 @@
     {
       "id": "noi:x",
       "parent": "noi@community",
-      "text": "X",
-      "url": "https://twitter.com"
+      "text": "X.com",
+      "url": "https://x.com"
     },
     {
       "id": "noi:discord",
@@ -206,6 +284,12 @@
       "parent": "noi@community",
       "text": "Hacker News",
       "url": "https://news.ycombinator.com"
+    },
+    {
+      "id": "noi:reddit",
+      "parent": "noi@community",
+      "text": "Reddit",
+      "url": "https://www.reddit.com"
     },
     {
       "id": "noi:figma",
@@ -230,6 +314,54 @@
       "parent": "noi@email",
       "text": "Outlook",
       "url": "https://outlook.live.com"
+    },
+    {
+      "id": "noi:protonmail",
+      "parent": "noi@email",
+      "text": "Proton Mail",
+      "url": "https://mail.proton.me/"
+    },
+    {
+      "id": "noi:googledrive",
+      "parent": "noi@google",
+      "text": "Google Drive",
+      "url": "https://drive.google.com"
+    },
+    {
+      "id": "noi:googledocs",
+      "parent": "noi@google",
+      "text": "Google Docs",
+      "url": "https://docs.google.com"
+    },
+    {
+      "id": "noi:todoist",
+      "parent": "noi@misc",
+      "text": "Todoist",
+      "url": "https://todoist.com"
+    },
+    {
+      "id": "noi:raindrop",
+      "parent": "noi@misc",
+      "text": "Raindrop.io",
+      "url": "https://raindrop.io"
+    },
+    {
+      "id": "noi:simplenote",
+      "parent": "noi@misc",
+      "text": "Simplenote",
+      "url": "https://simplenote.com"
+    },
+    {
+      "id": "noi:onehack",
+      "parent": "noi@generalweb",
+      "text": "Onehack.us",
+      "url": "https://onehack.us"
+    },
+    {
+      "id": "noi:blackhatworld",
+      "parent": "noi@generalweb",
+      "text": "Blackhatworld.com",
+      "url": "https://www.blackhatworld.com"
     },
     {
       "id": "noi:youtube",
